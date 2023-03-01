@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridyansh Verma</h1>
 <h3 align="center">web developer</h3>
 
-<img src="https://tenor.com/view/luffy4k-60fps-episode1015-gif-26153952](https://tenor.com/bVTZ6.gif" align="right" width="400" >
+<!-- <img src="https://giphy.com/embed/WmkEhAIyWfpm1vdVcg" align="right" width="400" > -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/GodBrand69?tab=repositories](https://github.com/GodBrand69?tab=repositories)
 
